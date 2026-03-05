@@ -1,5 +1,7 @@
 # MySQL Simulator Pro
 
+![alt text](Screenshots/MYSQL_Logo.png)
+
 ![MySQL Simulator Pro](https://img.shields.io/badge/MySQL_Simulator-Pro-f97316?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -82,6 +84,8 @@ GRANT SELECT, INSERT ON customers TO analyst;
 GRANT analyst TO 'jane_doe';
 ```
 
+![alt text](<Screenshots/SQL Editor.png>)
+
 ---
 
 ## 📂 **Module 02: Schema Browser**
@@ -116,6 +120,8 @@ GRANT analyst TO 'jane_doe';
 - **Column types** displayed inline
 - **One-click preview** button runs `SELECT * FROM table LIMIT 5`
 
+![alt text](<Screenshots/Schema Builder.png>)
+
 ---
 
 ## ⚡ **Module 03: Index Manager**
@@ -140,6 +146,8 @@ GRANT analyst TO 'jane_doe';
 - Indexes affect `EXPLAIN` plan visualization
 - Index scans shown in green, full table scans in orange
 - Query optimizer simulation with cost estimates
+
+![alt text](<Screenshots/Index Library.png>)
 
 ---
 
@@ -169,6 +177,9 @@ GRANT analyst TO 'jane_doe';
 - Current roles and effective permissions
 - Permission checking on every query
 
+
+![alt text](<Screenshots/Security & RBAC.png>)
+
 ---
 
 ## 📚 **Module 05: Lessons Library**
@@ -190,6 +201,9 @@ GRANT analyst TO 'jane_doe';
 - **Run automatically** after loading
 - **Categorized by SQL operation**
 
+![alt text](Screenshots/Lessons.png)
+
+![alt text](<Screenshots/Explain On.png>)
 ---
 
 ## 📊 **Module 06: Results & Analytics**
@@ -221,6 +235,9 @@ GRANT analyst TO 'jane_doe';
 - **Query comparison** A/B testing
 - **Percentage difference** calculation
 
+![alt text](<Screenshots/Import Data.png>)
+
+![alt text](Screenshots/History.png)
 ---
 
 ## 🎨 **Design & Aesthetics**
